@@ -1,3 +1,5 @@
+> THIS REPOSITORY MOVED TO https://github.com/pattern-lab/patternlab-node/tree/dev/packages/cli
+
 # PatternLab Node CLI
 
 > Command-line interface (CLI) for the patternlab-node core.
